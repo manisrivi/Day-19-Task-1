@@ -1,0 +1,24 @@
+.btn{
+    width: 50px;
+    margin: 8px;
+    font-weight: bold;
+}
+
+.calculate{
+    margin-top: 100px;
+    padding: 30px;
+    background-color: rgb(92, 92, 91);
+    border-radius: 25px;
+}
+input{
+    margin-bottom: 20px;
+    padding: 15px;
+    border: none;
+    background-color: rgb(225, 225, 241);
+    border-radius: 5px;
+    height: 50px;
+}
+
+.btn-success{
+    width: 120px;
+}
